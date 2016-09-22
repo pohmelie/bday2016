@@ -1,0 +1,28 @@
+#box {
+
+    display: flex;
+    flex-wrap: wrap; /* optional. only if you want the items to wrap */
+    justify-content: center; /* for horizontal alignment */
+    align-items: center; /* for vertical alignment */
+
+}
+
+#text {
+
+    width: 60%;
+    white-space: pre-wrap;
+
+}
+
+.cursor {
+
+    background-color: #a0a0a0;
+
+}
+
+* {
+
+    font-family: "Ubuntu Mono", monospace;
+    font-size: xx-large;
+
+}
